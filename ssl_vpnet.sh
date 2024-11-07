@@ -4,7 +4,8 @@ export PATH
 
 # 从环境变量中获取参数
 EMAIL=${EMAIL:-"horsemailma@gmail.com"}
-DOMAINS="one-api.horsenma.net,newbing.horsenma.net,speedtest.horsenma.net,bing.horsenma.net,blog.horsenma.net,vp.horsenma.net,chat.horsenma.net,chatgpt.horsenma.net,freegpt.horsenma.net"
+DOMAINS="oracle.horsenma.net"
+#DOMAINS="one-api.horsenma.net,newbing.horsenma.net,speedtest.horsenma.net,bing.horsenma.net,blog.horsenma.net,vp.horsenma.net,chat.horsenma.net,chatgpt.horsenma.net,freegpt.horsenma.net"
 #CLOUDFLARE_API_KEY=${CLOUDFLARE_API_KEY:-"6269d402124e0b2a6a4954fc40211d4af1a76"}
 CLOUDFLARE_API_KEY=${CLOUDFLARE_API_KEY:-"e38e7b7aba6e3fdf0045331003c046e9773ae"}
 
